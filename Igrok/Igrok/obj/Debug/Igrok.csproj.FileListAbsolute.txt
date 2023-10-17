@@ -1,0 +1,15 @@
+C:\Users\Notebook\Documents\Igrok\Igrok\bin\Debug\Igrok.exe.config
+C:\Users\Notebook\Documents\Igrok\Igrok\bin\Debug\Igrok.exe
+C:\Users\Notebook\Documents\Igrok\Igrok\bin\Debug\Igrok.pdb
+C:\Users\Notebook\Documents\Igrok\Igrok\obj\Debug\Igrok.csproj.AssemblyReference.cache
+C:\Users\Notebook\Documents\Igrok\Igrok\obj\Debug\Igrok.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\Igrok\Igrok\obj\Debug\Igrok.exe
+C:\Users\Notebook\Documents\Igrok\Igrok\obj\Debug\Igrok.pdb
+D:\Igrok\Igrok\bin\Debug\Igrok.exe.config
+D:\Igrok\Igrok\bin\Debug\Igrok.exe
+D:\Igrok\Igrok\bin\Debug\Igrok.pdb
+D:\Igrok\Igrok\obj\Debug\Igrok.csproj.AssemblyReference.cache
+D:\Igrok\Igrok\obj\Debug\Igrok.csproj.SuggestedBindingRedirects.cache
+D:\Igrok\Igrok\obj\Debug\Igrok.csproj.CoreCompileInputs.cache
+D:\Igrok\Igrok\obj\Debug\Igrok.exe
+D:\Igrok\Igrok\obj\Debug\Igrok.pdb
